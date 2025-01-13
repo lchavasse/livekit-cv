@@ -1,0 +1,15 @@
+livekit-agents>=0.11.2
+livekit-plugins-openai>=0.10.6
+livekit-plugins-deepgram>=0.6.9
+livekit-plugins-silero>=0.7.3
+python-dotenv~=1.0
+openai>=1.30.0
+
+# LangChain and LangGraph dependencies
+langchain-core>=0.2.0
+langchain-community>=0.2.0
+langgraph>=0.1.0
+langchain-anthropic>=0.1.0
+fastembed>=0.2.0
+tavily-python>=0.3.0
+qdrant-client>=1.19.0
